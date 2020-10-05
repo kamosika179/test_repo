@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class text : MonoBehaviour
 {
+    //ブランチ変更
     Text a;
     int num;
     // Start is called before the first frame update
